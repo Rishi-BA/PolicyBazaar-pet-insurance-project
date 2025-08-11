@@ -35,14 +35,14 @@ Integrate a **Pet Insurance** category into the existing PolicyBazaar website:
 
 | Folder/File | Description |
 |-------------|-------------|
-| **1_BRD** | Business Requirements Document – project background, high-level requirements, and scope |
-| **2_FRD** | Functional Requirements Document – detailed system features and workflows |
-| **3_User_Stories** | Agile user stories with acceptance criteria |
-| **4_Use_Cases** | Use case diagrams and detailed descriptions |
-| **5_Wireframes** | PNG images of the digital insurance UI (main page, choose pet, choose plan, policy details, payment flow, etc.) |
-| **6_Process_Flows** | As-Is and To-Be diagrams showing workflow changes |
-| **7_Test_Cases** | Test case documents for functional validation |
-| **8_RTM** | Requirements Traceability Matrix mapping requirements to test cases |
+| [**1_BRD**](1_BRD/) | Business Requirements Document – project background, high-level requirements, and scope |
+| [**2_FRD**](2_FRD/) | Functional Requirements Document – detailed system features and workflows |
+| [**3_User_Stories**](3_User_Stories/) | Agile user stories with acceptance criteria |
+| [**4_Use_Cases**](4_Use_Cases/) | Use case diagrams and detailed descriptions |
+| [**5_Wireframes**](5_Wireframes/) | PNG images of the digital insurance UI (main page, choose pet, choose plan, policy details, payment flow, etc.) |
+| [**6_Process_Flows**](6_Process_Flows/) | As-Is and To-Be diagrams showing workflow changes |
+| [**7_Test_Cases**](7_Test_Cases/) | Test case documents for functional validation |
+| [**8_RTM**](8_RTM/) | Requirements Traceability Matrix mapping requirements to test cases |
 
 ---
 
