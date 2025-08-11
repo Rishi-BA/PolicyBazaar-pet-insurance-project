@@ -56,11 +56,10 @@ Integrate a **Pet Insurance** category into the existing PolicyBazaar website:
 ---
 
 ## 📸 Wireframe Previews
-![Main Page Wireframe](5_Wireframes/Wireframe_1%20(Main%20Page).png)  
-![Choose Pet Wireframe](5_Wireframes/Wireframe_2%20(Choose%20Pet).png)  
+Below are a few sample wireframes from the project:
+
 ![Choose Plan Wireframe](5_Wireframes/Wireframe_3%20(Choose%20Plan).png)  
 ![Policy Details Wireframe](5_Wireframes/Wireframe_4%20(Policy%20Details).png)  
-![Pet and Owner Details Wireframe](5_Wireframes/Wireframe_5%20(Pet%20and%20Owner%20Details).png)  
 ![Payment Successful Wireframe](5_Wireframes/Wireframe_6%20(Payment%20Successful).png)
 
 ---
