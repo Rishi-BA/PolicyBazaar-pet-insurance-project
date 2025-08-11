@@ -66,8 +66,8 @@ Integrate a **Pet Insurance** category into the existing PolicyBazaar website:
 ---
 
 ## 📊 Process Flow Samples
-![As-Is Process Flow](6_Process_Flows/As-Is_Process_Flow.png)  
-![To-Be Process Flow](6_Process_Flows/To-Be_Process_Flow.png)
+![As-Is Process Flow](6_Process_Flows/As-Is%20Process%20Flow.png)  
+![To-Be Process Flow](6_Process_Flows/To-Be%20Process%20Flow.png)
 
 ---
 
