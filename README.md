@@ -84,5 +84,7 @@ Below are a few sample wireframes from the project:
 This project is part of my **Business Analyst portfolio**, demonstrating my ability to create complete BA documentation for a product feature enhancement in an existing digital platform.
 
 **Author:** Rishikesh Choudhary  
+
 **LinkedIn:** [Rishikesh Choudhary](https://www.linkedin.com/in/rishikesh-choudhary-ba-166100377)  
+
 **Email:** rishikeshchoudhary.ba@gmail.com
