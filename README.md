@@ -1,4 +1,6 @@
-[![PolicyBazaar Pet Insurance Banner](5_Wireframes/PolicyBazaar_Banner.png)](5_Wireframes/PolicyBazaar_Banner.png)
+<p align="center">
+    <img src="5_Wireframes/PolicyBazaar_Banner0.png" alt="PolicyBazaar-Pet-Insurance Banner">
+</p>
 
 # PolicyBazaar Pet Insurance Project
 
