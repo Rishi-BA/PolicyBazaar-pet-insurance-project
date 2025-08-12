@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="5_Wireframes/PolicyBazaar_Bannerr.png" alt="PolicyBazaar-Pet-Insurance Banner">
+    <img src="5_Wireframes/PolicyBazaar_Banner.png" alt="PolicyBazaar-Pet-Insurance Banner">
 </p>
 
 # PolicyBazaar Pet Insurance Project
